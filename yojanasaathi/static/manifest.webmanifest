@@ -1,0 +1,10 @@
+{
+  "name": "YojanaSaathi",
+  "short_name": "YojanaSaathi",
+  "description": "Find and apply for government welfare schemes in Hindi or English, by voice or text.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff8ec",
+  "theme_color": "#e8590c",
+  "icons": [{"src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}
