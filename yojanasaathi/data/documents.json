@@ -1,0 +1,128 @@
+[
+  {
+    "key": "aadhaar",
+    "name_en": "Aadhaar card",
+    "name_hi": "आधार कार्ड",
+    "how_en": "Issued by UIDAI. Get or update it at an Aadhaar centre.",
+    "how_hi": "UIDAI द्वारा जारी। आधार केंद्र पर बनवाएँ या अपडेट करवाएँ।"
+  },
+  {
+    "key": "bank_passbook",
+    "name_en": "Bank passbook (account linked to Aadhaar)",
+    "name_hi": "बैंक पासबुक (आधार से जुड़ा खाता)",
+    "how_en": "Open a zero-balance account at any bank and link Aadhaar and mobile number.",
+    "how_hi": "किसी भी बैंक में ज़ीरो-बैलेंस खाता खुलवाएँ और आधार व मोबाइल नंबर जुड़वाएँ।"
+  },
+  {
+    "key": "mobile_number",
+    "name_en": "Mobile number (linked to Aadhaar)",
+    "name_hi": "मोबाइल नंबर (आधार से जुड़ा)",
+    "how_en": "If not linked, update it at an Aadhaar centre; OTPs come on this number.",
+    "how_hi": "अगर जुड़ा नहीं है तो आधार केंद्र पर अपडेट करवाएँ; OTP इसी नंबर पर आते हैं।"
+  },
+  {
+    "key": "passport_photo",
+    "name_en": "Passport-size photograph",
+    "name_hi": "पासपोर्ट साइज़ फ़ोटो",
+    "how_en": "Any photo studio.",
+    "how_hi": "किसी भी फ़ोटो स्टूडियो से।"
+  },
+  {
+    "key": "land_records",
+    "name_en": "Land records (Khatauni / Khasra / 7-12 extract)",
+    "name_hi": "ज़मीन के कागज़ात (खतौनी / खसरा / 7-12 उतारा)",
+    "how_en": "Revenue / tehsil office, or your state's land-records portal.",
+    "how_hi": "राजस्व / तहसील कार्यालय, या राज्य का भू-अभिलेख पोर्टल।"
+  },
+  {
+    "key": "income_certificate",
+    "name_en": "Income certificate",
+    "name_hi": "आय प्रमाणपत्र",
+    "how_en": "Tehsil office or your state's e-District portal.",
+    "how_hi": "तहसील कार्यालय या राज्य का ई-डिस्ट्रिक्ट पोर्टल।"
+  },
+  {
+    "key": "caste_certificate",
+    "name_en": "Caste certificate",
+    "name_hi": "जाति प्रमाणपत्र",
+    "how_en": "Tehsil office or your state's e-District portal.",
+    "how_hi": "तहसील कार्यालय या राज्य का ई-डिस्ट्रिक्ट पोर्टल।"
+  },
+  {
+    "key": "residence_certificate",
+    "name_en": "Residence / domicile certificate",
+    "name_hi": "निवास / मूल निवास प्रमाणपत्र",
+    "how_en": "Tehsil office or your state's e-District portal.",
+    "how_hi": "तहसील कार्यालय या राज्य का ई-डिस्ट्रिक्ट पोर्टल।"
+  },
+  {
+    "key": "age_proof",
+    "name_en": "Age proof (birth certificate, school certificate or Aadhaar)",
+    "name_hi": "आयु प्रमाण (जन्म प्रमाणपत्र, स्कूल प्रमाणपत्र या आधार)",
+    "how_en": "Any one of these is usually accepted; check the form.",
+    "how_hi": "इनमें से कोई एक आमतौर पर मान्य होता है; फ़ॉर्म में जाँच लें।"
+  },
+  {
+    "key": "ration_card",
+    "name_en": "Ration card / BPL card",
+    "name_hi": "राशन कार्ड / BPL कार्ड",
+    "how_en": "Food and civil supplies office or your state's food portal.",
+    "how_hi": "खाद्य एवं नागरिक आपूर्ति कार्यालय या राज्य का खाद्य पोर्टल।"
+  },
+  {
+    "key": "mcp_card",
+    "name_en": "Mother and Child Protection (MCP) card",
+    "name_hi": "मातृ एवं शिशु सुरक्षा (MCP) कार्ड",
+    "how_en": "Given at the Anganwadi centre or health centre when the pregnancy is registered.",
+    "how_hi": "गर्भावस्था का पंजीकरण कराने पर आँगनवाड़ी या स्वास्थ्य केंद्र में मिलता है।"
+  },
+  {
+    "key": "house_declaration",
+    "name_en": "Self-declaration: no pucca house in the family",
+    "name_hi": "स्व-घोषणा: परिवार के पास पक्का मकान नहीं है",
+    "how_en": "Written on plain paper or in the format given by the Gram Panchayat / urban body.",
+    "how_hi": "सादे कागज़ पर या ग्राम पंचायत / नगर निकाय के प्रारूप में लिखें।"
+  },
+  {
+    "key": "vendor_certificate",
+    "name_en": "Street vendor certificate / ID card or Letter of Recommendation",
+    "name_hi": "रेहड़ी-पटरी विक्रेता प्रमाणपत्र / पहचान पत्र या अनुशंसा पत्र (LoR)",
+    "how_en": "Municipal office (urban local body).",
+    "how_hi": "नगर निगम / नगर पालिका कार्यालय।"
+  },
+  {
+    "key": "business_proof",
+    "name_en": "Business proof or a simple business plan",
+    "name_hi": "व्यवसाय का प्रमाण या सरल बिज़नेस प्लान",
+    "how_en": "Shop licence or Udyam registration, or a short note on what you will do and the cost.",
+    "how_hi": "दुकान का लाइसेंस या उद्यम पंजीकरण, या काम और लागत का संक्षिप्त विवरण।"
+  },
+  {
+    "key": "nominee_details",
+    "name_en": "Nominee details (name, relation, age)",
+    "name_hi": "नॉमिनी का विवरण (नाम, रिश्ता, उम्र)",
+    "how_en": "Decide who should receive the benefit; you fill this in at the bank.",
+    "how_hi": "तय करें कि लाभ किसे मिलेगा; बैंक में भरना होता है।"
+  },
+  {
+    "key": "bonafide_student",
+    "name_en": "Admission proof / fee receipt / last marksheet",
+    "name_hi": "प्रवेश प्रमाण / फ़ीस रसीद / पिछली मार्कशीट",
+    "how_en": "From your school or college office.",
+    "how_hi": "अपने स्कूल या कॉलेज के कार्यालय से।"
+  },
+  {
+    "key": "birth_certificate_child",
+    "name_en": "Daughter's birth certificate",
+    "name_hi": "बेटी का जन्म प्रमाणपत्र",
+    "how_en": "Municipal office or Gram Panchayat (or the civil registration portal).",
+    "how_hi": "नगर निकाय या ग्राम पंचायत (या नागरिक पंजीकरण पोर्टल)।"
+  },
+  {
+    "key": "samagra_id",
+    "name_en": "Samagra ID (Madhya Pradesh)",
+    "name_hi": "समग्र आईडी (मध्य प्रदेश)",
+    "how_en": "Local body office or the Samagra portal.",
+    "how_hi": "स्थानीय निकाय कार्यालय या समग्र पोर्टल।"
+  }
+]
