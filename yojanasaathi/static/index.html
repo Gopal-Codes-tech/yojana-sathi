@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="hi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>YojanaSaathi · योजना साथी</title>
+<meta name="theme-color" content="#e8590c">
+<meta name="description" content="Find government welfare schemes you are eligible for, in Hindi or English, by voice or text.">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="icon" href="/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand"><img src="/icon.svg" alt="" width="34" height="34"><div><b>YojanaSaathi</b><small data-i18n="tagline"></small></div></div>
+  <nav class="tools">
+    <button id="btn-lang" class="pill" aria-label="Language"></button>
+    <button id="btn-voice" class="pill" aria-pressed="false"></button>
+    <button id="btn-assist" class="pill" aria-pressed="false"></button>
+    <button id="btn-track" class="pill">🔔 <span data-i18n="mytrack"></span> <span id="badge" class="badge" hidden>0</span></button>
+  </nav>
+</header>
+
+<main id="app" aria-live="polite"></main>
+
+<footer class="foot">
+  <p data-i18n="privacy"></p>
+  <p data-i18n="verify"></p>
+</footer>
+
+<div id="modal" class="modal" hidden><div class="sheet" role="dialog" aria-modal="true"><button id="modal-x" class="x" aria-label="Close">×</button><div id="modal-body"></div></div></div>
+<div id="toast" class="toast" hidden></div>
+<script src="/app.js"></script>
+</body>
+</html>
